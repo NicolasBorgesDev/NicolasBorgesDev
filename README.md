@@ -25,14 +25,14 @@ I am a software developer with a strong background in operational management. I 
 
 ---
 
-### 📊 My GitHub Stats
-
+### 📊 Platform Metrics & Profile
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NicolasBorgesDev&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Nicolas's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=NicolasBorgesDev&layout=compact&theme=radical&hide=html,css" alt="Top Langs" />
+  <img src="https://img.shields.io/badge/Main_Stack-Full_Stack_Developer-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open_Source-Contributor-green?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-SaaS_Product_Engineering-orange?style=for-the-badge" />
 </p>
----
+
+> **Note:** My contribution graph reflects heavy activity in private repositories for commercial products like FioGest and BGN.
 
 ### 📫 Let's connect!
 
