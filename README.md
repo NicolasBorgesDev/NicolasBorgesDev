@@ -26,12 +26,12 @@ I am a software developer with a strong background in operational management. I 
 ---
 
 ### 📊 My GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NicolasBorgesDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Nicolas's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasBorgesDev&layout=compact&theme=radical&hide=html,css" alt="Top Langs" />
-</p>
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=NicolasBorgesDev&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Nicolas's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=NicolasBorgesDev&layout=compact&theme=radical&hide=html,css" alt="Top Langs" />
+</p>
 ---
 
 ### 📫 Let's connect!
