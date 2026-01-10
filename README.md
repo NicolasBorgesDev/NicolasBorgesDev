@@ -12,6 +12,7 @@ I am a software developer with a strong background in operational management. I 
 - **Backend & Database:** Supabase (PostgreSQL) with Row Level Security (RLS).
 - **Integrations:** Stripe/Pix Payments, Firebase Push Notifications, and Edge Functions.
 - **Mobile:** PWA (Progressive Web App) with custom Service Workers.
+- **Infrastructure:** Netlify/Vercel for Frontend, Supabase for Backend, GitHub Actions for CI/CD.
 
 ---
 
