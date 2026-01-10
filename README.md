@@ -25,11 +25,15 @@ I am a software developer with a strong background in operational management. I 
 ---
 
 ### 📊 My GitHub Stats
-![Nicolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasBorgesDev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasBorgesDev&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=NicolasBorgesDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Nicolas's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasBorgesDev&layout=compact&theme=radical&hide=html,css" alt="Top Langs" />
+</p>
 
 ---
 
 ### 📫 Let's connect!
-- **LinkedIn:** [https://www.linkedin.com/in/nicolas-borges-a1b941191/]
-- **Email:** [borgesnegociosadm@gmail.com]
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolas-borges-a1b941191)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:borgesnegociosadm@gmail.com)
