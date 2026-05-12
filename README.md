@@ -1,6 +1,6 @@
 # Hi there, I'm Nicolas Borges! 👋
 
-### Full Stack Developer • UEFN • Unreal Engine Developer
+### Full Stack Developer | UEFN • Unreal Engine Developer
 
 I specialize in building scalable full stack applications, SaaS platforms and high-performance systems using modern web technologies.
 
