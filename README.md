@@ -9,7 +9,7 @@ I work across the software development lifecycle — from PostgreSQL database de
 
 I also build multiplayer gameplay systems and custom UI/HUD experiences using **UEFN, Verse, and Unreal Engine**.
 
-🌎 **Open to remote software engineering opportunities and international B2B projects.**
+**Open to remote software engineering opportunities and international B2B projects.**
 
 ---
 
