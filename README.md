@@ -7,9 +7,9 @@ I'm a Full-Stack Developer based in Brazil, focused on building scalable SaaS pl
 
 I work across the software development lifecycle — from PostgreSQL database design and backend architecture to modern React interfaces, integrations, and deployment.
 
-I also develop multiplayer gameplay systems and custom UI/HUD experiences using **UEFN, Verse, and Unreal Engine**.
+I also build multiplayer gameplay systems and custom UI/HUD experiences using **UEFN, Verse, and Unreal Engine**.
 
-🌎 **Open to remote opportunities and international B2B projects.**
+🌎 **Open to remote software engineering opportunities and international B2B projects.**
 
 ---
 
@@ -47,43 +47,13 @@ I also develop multiplayer gameplay systems and custom UI/HUD experiences using 
 
 ---
 
-## 🚀 Featured Projects
-
-### 💈 [FioGest — Business Management SaaS](https://github.com/NicolasBorgesDev/FioGest-SaaS-Case-Study)
-
-Multi-tenant SaaS platform for barbershops and salons, featuring financial management, scheduling, POS, commissions, and dedicated professional and client PWAs.
-
-**Stack:** React, TypeScript, Supabase, PostgreSQL, Tailwind CSS, Firebase, Stripe.
-
-### 🚛 [LogTrack — Enterprise Logistics Platform](https://github.com/NicolasBorgesDev/LogTrack-Case-Study)
-
-Business logistics platform for managing service orders, transportation providers, branch operations, performance indicators, and financial reporting.
-
-**Stack:** React, TypeScript, Supabase, PostgreSQL, Leaflet, Recharts.
-
-### 💰 [Cashcoin — Personal Finance Platform](https://github.com/NicolasBorgesDev/Cashcoin-Finance-Case-Study)
-
-Personal finance application featuring financial dashboards, budgeting tools, and multi-currency management.
-
-**Stack:** React, TypeScript, Supabase, PostgreSQL.
-
-### 🎮 [Game Development & 3D Architecture](https://github.com/NicolasBorgesDev/Game-Development-3D-Architecture)
-
-Technical portfolio showcasing multiplayer gameplay systems, custom HUD/UI, competitive match flows, and 3D asset workflows.
-
-**Stack:** UEFN, Verse, Unreal Engine, Unity, Blender.
-
-> Commercial source code is kept private. The linked repositories provide technical case studies and project documentation.
-
----
-
 ## 💻 Engineering Focus
 
-**SaaS & Enterprise Systems:** Multi-tenant architecture, role-based access control, PostgreSQL RLS, transactional workflows, and business automation.
+- **SaaS & Enterprise Systems:** Multi-tenant architecture, role-based access control, PostgreSQL RLS, transactional workflows, and business automation.
+- **Frontend Engineering:** React, TypeScript, responsive interfaces, reusable components, and data-heavy dashboards.
+- **Backend & Integrations:** PostgreSQL, Supabase Edge Functions, REST APIs, authentication, payments, and push notifications.
 
-**Frontend Engineering:** React applications, TypeScript, responsive interfaces, reusable components, and data-heavy dashboards.
-
-**Backend & Integrations:** PostgreSQL, Supabase Edge Functions, REST APIs, authentication, payments, and push notifications.
+📌 **Explore my pinned repositories below** for technical case studies and project documentation. Commercial source code is kept private.
 
 ---
 
@@ -91,12 +61,7 @@ Technical portfolio showcasing multiplayer gameplay systems, custom HUD/UI, comp
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolasrbsdev/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:borgesnegociosadm@gmail.com)
-[![Website](https://img.shields.io/badge/FioGest-Website-181818?style=flat-square&logo=googlechrome&logoColor=white)](https://fiogest.com.br/)
+[![FioGest](https://img.shields.io/badge/FioGest-Website-181818?style=flat-square&logo=googlechrome&logoColor=white)](https://fiogest.com.br/)
 
-## 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolas-borges-a1b941191)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:borgesnegociosadm@gmail.com)
 ```
 
