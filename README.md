@@ -61,7 +61,6 @@ I also build multiplayer gameplay systems and custom UI/HUD experiences using **
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolasrbsdev/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:borgesnegociosadm@gmail.com)
-[![FioGest](https://img.shields.io/badge/FioGest-Website-181818?style=flat-square&logo=googlechrome&logoColor=white)](https://fiogest.com.br/)
 
 ```
 
